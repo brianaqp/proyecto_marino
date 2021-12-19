@@ -1,4 +1,8 @@
 # proyecto_marino
+VIDEO REALIZADO AL 40%
+![image](https://user-images.githubusercontent.com/71677184/146690951-887ea757-2d59-4a58-8830-96e05973c124.png)
+
+
 Proyecto de Topicos Avanzados de Inteligencia Artificial
 
 Adjunto Reporte en formato IEEE, llamado pdf.pdf
