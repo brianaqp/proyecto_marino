@@ -1,6 +1,7 @@
 # proyecto_marino
-VIDEO REALIZADO AL 40%
-![image](https://user-images.githubusercontent.com/71677184/146690962-c5b6216a-bde3-4bfa-b97d-c4f1e9bb7a58.png)
+VIDEO REALIZADO AL 65%
+![image](https://user-images.githubusercontent.com/71677184/146693383-ce937ef5-768c-4c41-8a47-15c5b8c521c2.png)
+
 
 
 
