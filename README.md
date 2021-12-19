@@ -1,6 +1,8 @@
 # proyecto_marino
 Proyecto de Topicos Avanzados de Inteligencia Artificial
 
+Adjunto Reporte en formato IEEE, llamado pdf.pdf
+
 Los siguientes archivos de python sirven para lo siguiente
 
 - entrenar.py: Es el archivo que crea, entrena y guarda el modelo secuencial.
