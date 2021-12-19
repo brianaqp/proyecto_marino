@@ -19,3 +19,6 @@ Solo pude entrenar al modelo per clase con:
 Con mas datos, se podrian obtener mejores resultados.
 
 En github no me deja subir los videos que utilice para testear porque duran 11 horas, asi que en el video tratare de mostrar como se ve.
+
+drive con algunos videos de prueba:
+https://drive.google.com/drive/folders/1Kzo9fSFaN8x0ii_QoQj1erKYSWaMG9U_?usp=sharing
