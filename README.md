@@ -1,6 +1,7 @@
 # proyecto_marino
 VIDEO REALIZADO AL 40%
-![image](https://user-images.githubusercontent.com/71677184/146690951-887ea757-2d59-4a58-8830-96e05973c124.png)
+![image](https://user-images.githubusercontent.com/71677184/146690962-c5b6216a-bde3-4bfa-b97d-c4f1e9bb7a58.png)
+
 
 
 Proyecto de Topicos Avanzados de Inteligencia Artificial
