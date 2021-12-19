@@ -22,5 +22,8 @@ Con mas datos, se podrian obtener mejores resultados.
 
 En github no me deja subir los videos que utilice para testear porque duran 11 horas, asi que en el video tratare de mostrar como se ve.
 
-Adjunto drive con algunos *videos de prueba* y con el *modelo entrenado*:
+Adjunto drive los siguientes elementors:
+- modelo entrenado y pesos
+- videos de prueba que se pueden utilizar
+- video propio que explica desde mis palabras que hacer
 https://drive.google.com/drive/folders/1Kzo9fSFaN8x0ii_QoQj1erKYSWaMG9U_?usp=sharing
