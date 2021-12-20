@@ -1,5 +1,7 @@
 # proyecto_marino
-VIDEO REALIZADO AL 100%
+VIDEO!
+
+https://www.youtube.com/watch?v=HPoRydMX_Ws&ab_channel=BrianQui%C3%B1onez
 
 
 
